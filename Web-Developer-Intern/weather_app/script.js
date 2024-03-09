@@ -9,7 +9,7 @@ const daysForecastDiv = document.querySelector(".days-forecast");
 
 // Decode the API key
 // please dont copy the api 🥲🥹🥹 i am using the same key for my python projects i really need it 
-const API_KEY ="6c45929a41ef29127fa72b44542c9e26";
+const API_KEY ="i dont want share this api key. it's not like you cant find it 🥲";
 
 //use the stored API key from .env
 
