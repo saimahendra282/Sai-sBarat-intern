@@ -1,0 +1,3 @@
+# hello guys what's this repo about 🤔:
+
+I am going to push all my Bharat intern task programmes here you can navigate to the internship's folder name and the task's name...
